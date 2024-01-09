@@ -1,0 +1,60 @@
+<svg width="22" height="22" viewBox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="22" height="22" fill="#1E1E1E"/>
+<g id="Desktop - 1" clip-path="url(#clip0_0_1)">
+<rect width="1440" height="6406" transform="translate(-1231 -5142)" fill="white"/>
+<g id="footer">
+<g id="Outbound">
+<g id="Social">
+<g id="Social_2">
+<g id="Background" filter="url(#filter0_d_0_1)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M9.97315 41.8555C26.5018 41.8555 39.9009 28.4564 39.9009 11.9277C39.9009 -4.6009 26.5018 -18 9.97315 -18C-6.55549 -18 -19.9546 -4.6009 -19.9546 11.9277C-19.9546 28.4564 -6.55549 41.8555 9.97315 41.8555Z" fill="url(#paint0_angular_0_1)"/>
+</g>
+<g id="instagram 1" clip-path="url(#clip1_0_1)">
+<g id="Group">
+<g id="Group_2">
+<path id="Vector" d="M18.162 0.619629H3.11503C1.39626 0.619629 -0.00244141 2.01833 -0.00244141 3.7371V18.7841C-0.00244141 20.5033 1.39626 21.9016 3.11503 21.9016H18.162C19.8812 21.9016 21.2795 20.5033 21.2795 18.7841V3.7371C21.2795 2.01833 19.8812 0.619629 18.162 0.619629ZM20.0325 18.7841C20.0325 19.8154 19.1933 20.6546 18.162 20.6546H3.11503C2.08377 20.6546 1.24455 19.8154 1.24455 18.7841V3.7371C1.24455 2.70584 2.08377 1.86662 3.11503 1.86662H18.162C19.1933 1.86662 20.0325 2.70584 20.0325 3.7371V18.7841Z" fill="white"/>
+</g>
+<g id="Group_3">
+<path id="Vector_2" d="M17.4966 3.15576C16.8091 3.15576 16.2496 3.71524 16.2496 4.40275C16.2496 5.09026 16.8091 5.64974 17.4966 5.64974C18.1841 5.64974 18.7436 5.09026 18.7436 4.40275C18.7436 3.71524 18.1841 3.15576 17.4966 3.15576Z" fill="white"/>
+</g>
+<g id="Group_4">
+<path id="Vector_3" d="M10.6383 5.65088C7.54411 5.65088 5.02686 8.16813 5.02686 11.2623C5.02686 14.3565 7.54411 16.8738 10.6383 16.8738C13.7325 16.8738 16.2498 14.3565 16.2498 11.2623C16.2498 8.16813 13.7325 5.65088 10.6383 5.65088ZM10.6383 15.6268C8.23162 15.6268 6.27384 13.669 6.27384 11.2623C6.27384 8.85564 8.23162 6.89787 10.6383 6.89787C13.045 6.89787 15.0028 8.85564 15.0028 11.2623C15.0028 13.669 13.045 15.6268 10.6383 15.6268Z" fill="white"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_d_0_1" x="-33.2558" y="-28.641" width="86.4579" height="86.4579" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="2.66024"/>
+<feGaussianBlur stdDeviation="6.65061"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.1 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_0_1"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_0_1" result="shape"/>
+</filter>
+<radialGradient id="paint0_angular_0_1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(9.97315 11.9277) rotate(90) scale(0.665061)">
+<stop stop-color="#B8D2F1"/>
+<stop offset="0.166667" stop-color="#F289AA"/>
+<stop offset="0.294697" stop-color="#C68BF0"/>
+<stop offset="0.427083" stop-color="#D164DA"/>
+<stop offset="0.614583" stop-color="#C963E8"/>
+<stop offset="0.71875" stop-color="#BFC2E8"/>
+<stop offset="0.802083" stop-color="#FFC999"/>
+<stop offset="0.875" stop-color="#D0D8C9"/>
+<stop offset="0.928149" stop-color="#BAD0F1"/>
+<stop offset="0.997133" stop-color="#CED8CB"/>
+<stop offset="1" stop-color="white" stop-opacity="0"/>
+</radialGradient>
+<clipPath id="clip0_0_1">
+<rect width="1440" height="6406" fill="white" transform="translate(-1231 -5142)"/>
+</clipPath>
+<clipPath id="clip1_0_1">
+<rect width="21.2819" height="21.2819" fill="white" transform="translate(-0.00256348 0.621582)"/>
+</clipPath>
+</defs>
+</svg>
